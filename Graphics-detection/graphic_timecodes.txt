@@ -1,0 +1,43 @@
+
+====================================================================================================
+Info:
+Video: /media/shchetkov/HDD/media/videos/task2/bars_gr.mp4
+Step: 2	 Threshold: 10
+Graphics timecodes: 
+['00h.00m.00s', '00h.00m.01s', '00h.00m.02s', '00h.00m.03s', '00h.00m.04s', '00h.00m.07s', '00h.00m.08s', '00h.00m.09s']
+====================================================================================================
+Info:
+Video: /media/shchetkov/HDD/media/videos/task2/bars_gr.mp4
+Step: 1	 Threshold: 25
+Graphics timecodes: 
+['00h.00m.04s', '00h.00m.09s']
+====================================================================================================
+Info:
+Video: /media/shchetkov/HDD/media/videos/task2/bars_gr.mp4
+Step: 1	 Threshold: 40
+Graphics timecodes: 
+['00h.00m.04s']
+====================================================================================================
+Info:
+Video: /media/shchetkov/HDD/media/videos/task2/basket_game.mp4
+Step: 1	 Threshold: 40
+Graphics timecodes: 
+[]
+====================================================================================================
+Info:
+Video: /media/shchetkov/HDD/media/videos/task2/bars_test/bars_00_08_40_20.mp4
+Step: 1	 Threshold: 40
+Graphics timecodes: 
+['00h.00m.03s', '00h.00m.04s', '00h.00m.05s', '00h.00m.06s', '00h.00m.09s', '00h.00m.10s', '00h.00m.11s', '00h.00m.13s', '00h.00m.16s']
+====================================================================================================
+Info:
+Video: /media/shchetkov/HDD/media/videos/task2/bask_test/bask_00_31_05_50.mp4
+Step: 1	 Threshold: 40
+Graphics timecodes: 
+['00h.00m.05s', '00h.00m.06s', '00h.00m.10s', '00h.00m.14s', '00h.00m.16s', '00h.00m.21s', '00h.00m.23s', '00h.00m.24s', '00h.00m.26s', '00h.00m.27s', '00h.00m.28s', '00h.00m.30s', '00h.00m.33s', '00h.00m.34s', '00h.00m.43s', '00h.00m.44s']
+====================================================================================================
+Info:
+Video: /media/shchetkov/HDD/media/videos/task2/bask_test/bask_00_31_05_50.mp4
+Step: 2	 Threshold: 40
+Graphics timecodes: 
+['00h.00m.01s', '00h.00m.02s', '00h.00m.03s', '00h.00m.04s', '00h.00m.05s', '00h.00m.06s', '00h.00m.10s', '00h.00m.16s', '00h.00m.19s', '00h.00m.20s', '00h.00m.21s', '00h.00m.23s', '00h.00m.24s', '00h.00m.26s', '00h.00m.27s', '00h.00m.28s', '00h.00m.30s', '00h.00m.31s', '00h.00m.32s', '00h.00m.33s', '00h.00m.34s', '00h.00m.42s', '00h.00m.43s', '00h.00m.44s']
